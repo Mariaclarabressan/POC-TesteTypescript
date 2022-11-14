@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "outDir": "dist",
+        "esModuleInterop": true,
+        "module": "es6",
+        "baseUrl": ".",
+        "paths": {
+            "joi" : [
+                "/home/maria/POC-JADLOG/node_modules/joi/dist/joi-browser.min"
+            ]
+        }
+    },
+    "ts-node": {
+        "esm": true
+    }
+}
