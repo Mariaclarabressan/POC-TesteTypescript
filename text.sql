@@ -6,3 +6,4 @@ CREATE TABLE
     situcao BOOLEAN NOT NULL,
 
   );
+  
