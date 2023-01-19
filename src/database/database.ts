@@ -10,4 +10,7 @@ const connection = new Pool({
     database: 'jadlog'
 })
 
+
+
 export {connection}
+
